@@ -7,20 +7,20 @@ html {
 
 @font-face{ 
     font-family: "SM중고딕10-Regular";
-    src:url("SM중고딕10-Regular.otf")format("opentype"),
-        url("SM중고딕10-Regular.woff")format("woff");
+    src:url("./SM중고딕10-Regular.otf")format("opentype"),
+        url("./SM중고딕10-Regular.woff")format("woff");
 }
 
 @font-face{ 
     font-family: "SM중명조-Regular";
-    src:url("SM중명조-Regular.otf")format("opentype"),
-        url("SM중명조-Regular.woff")format("woff");
+    src:url("./SM중명조-Regular.otf")format("opentype"),
+        url("./SM중명조-Regular.woff")format("woff");
 }
 
 @font-face{ 
     font-family: "SM태고딕-Regular";
-    src:url("SM태고딕-Regular.otf")format("opentype"),
-        url("SM태고딕-Regular.woff")format("woff");
+    src:url("./SM태고딕-Regular.otf")format("opentype"),
+        url("./SM태고딕-Regular.woff")format("woff");
 }
 
 .container{
